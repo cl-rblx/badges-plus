@@ -3,6 +3,8 @@
 Scripted by C_L 
 - https://github.com/cl-rblx
 - https://www.roblox.com/users/728575063/profile            
+
+Made for those who want a simple way of giving badges
                                         
 --]]
 
